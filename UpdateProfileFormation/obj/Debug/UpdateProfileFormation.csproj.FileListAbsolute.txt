@@ -1,0 +1,10 @@
+C:\Users\mayka\source\repos\UpdateProfileFormation\bin\Debug\UpdateProfileFormation.exe.config
+C:\Users\mayka\source\repos\UpdateProfileFormation\bin\Debug\UpdateProfileFormation.exe
+C:\Users\mayka\source\repos\UpdateProfileFormation\bin\Debug\UpdateProfileFormation.pdb
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.csprojAssemblyReference.cache
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.Form1.resources
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.Form2.resources
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.Properties.Resources.resources
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.csproj.GenerateResource.cache
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.exe
+C:\Users\mayka\source\repos\UpdateProfileFormation\obj\Debug\UpdateProfileFormation.pdb
